@@ -1,14 +1,14 @@
 ## ToDo
 Tag commands that have yet to be written and implemented.
 
-- [ ] mixels
+- [x] mixels
 - [ ] aa
 - [x] layerorder
-- [ ] themes
+- [x] themes
 - [ ] multitransform
 - [ ] highres
 - [ ] indexed
-- [ ] docs
+- [x] docs
 - [ ] eula
-- [ ] libresprite
-- [ ] contact
+- [x] libresprite
+- [x] contact
