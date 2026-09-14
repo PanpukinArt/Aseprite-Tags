@@ -3,7 +3,7 @@ Tag commands that have yet to be written and implemented.
 
 - [ ] mixels
 - [ ] aa
-- [ ] arrange
+- [ ] layerorder
 - [ ] themes
 - [ ] multitransform
 - [ ] highres
