@@ -6,7 +6,7 @@ Tag commands that have yet to be written and implemented.
 - [x] layerorder
 - [x] themes
 - [ ] multitransform
-- [ ] highres
+- [x] highres
 - [ ] indexed
 - [x] docs
 - [ ] eula
