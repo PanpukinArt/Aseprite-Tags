@@ -12,3 +12,4 @@ Tag commands that have yet to be written and implemented.
 - [x] eula
 - [x] libresprite
 - [x] contact
+- [ ] export
