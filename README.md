@@ -5,10 +5,10 @@ Tag commands that have yet to be written and implemented.
 - [ ] aa
 - [x] layerorder
 - [x] themes
-- [ ] multitransform
+- [x] multitransform
 - [x] highres
 - [ ] indexed
 - [x] docs
-- [ ] eula
+- [x] eula
 - [x] libresprite
 - [x] contact
