@@ -1,0 +1,2 @@
+### Please refer to the #help channel for questions.
+In order for longer support discussions to not drown out casual conversation, and for questions to not be pushed up before they can be answered, we ask users to contain them in #help.
